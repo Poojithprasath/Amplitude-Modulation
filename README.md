@@ -95,16 +95,14 @@ plot(t,s);
 
 
 Output Waveform:
-<img width="1532" height="700" alt="image" src="https://github.com/user-attachments/assets/b11acedd-578f-4924-a017-034f66cf7df4" />
-
+<img width="1635" height="989" alt="image" src="https://github.com/user-attachments/assets/d36a010c-6293-4332-8946-8df54ae607f4" />
 
 
 
 
 
 TABULATION:
-![IMG_20250813_222844 1](https://github.com/user-attachments/assets/2bf4d86b-6661-4c12-bfc2-aa7305ee8a32)
-
+<img width="1532" height="700" alt="image" src="https://github.com/user-attachments/assets/b11acedd-578f-4924-a017-034f66cf7df4" />
 
 
 
